@@ -1,6 +1,6 @@
 # 🪄 Grammify
 
-**Grammify** é um assistente de escrita desktop moderno e minimalista. Ele utiliza a potência da Inteligência Artificial do Google (Gemini 1.5 Flash) para oferecer correções gramaticais precisas e resumos inteligentes de textos diretamente no seu computador.
+**Grammify** é uma assistente de escrita desktop moderno e minimalista. Ele utiliza a potência da Inteligência Artificial do Google (Gemini 1.5 Flash) para oferecer correções gramaticais precisas e resumos inteligentes de textos diretamente no seu computador.
 
 ---
 
